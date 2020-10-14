@@ -17,7 +17,7 @@ namespace ConsoleApp1
             try
             {
 
-                // Initialization.  
+                // Initialization...
                 string responseObj = string.Empty;
 
                 // Posting.  
